@@ -54,57 +54,66 @@ ___
 ___
 
 ### Computer Graphics Projects
+[Videos with Computer Graphics Projects](https://www.wenjiehuang.net/general-8)
 
 - #### 01 Piccolo Game Engine (2022.12-now)
-  [![GameEnigine](https://res.cloudinary.com/marcomontalbano/image/upload/v1682877999/video_to_markdown/images/youtube--T2K0te1S5QA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/T2K0te1S5QA "GameEnigine")\
+  ![image](https://user-images.githubusercontent.com/82434538/235370947-309b4b8d-f9e6-49f0-919e-85ab6ba9697f.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:*** 
 
 - #### 02 Animation using Unreal Engine and Houdini (2022.09-2022.10)
+  ![image](https://user-images.githubusercontent.com/82434538/235370962-0014ae56-03dd-4d23-b2e0-4da13511aa9c.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 03 Tiny Renderer (2022.06-2022.08)
+  ![image](https://user-images.githubusercontent.com/82434538/235371020-def9d366-6221-438d-a78d-577447dbfdf6.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 04 Ray Tracing Using Monte Carlo Methods (2022.10-2022.11)
+  ![image](https://user-images.githubusercontent.com/82434538/235371055-32570506-ae6c-4ebd-93d1-775515fd5ccc.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 05 Unity Shader (2022.01-2022.05)
+  ![image](https://user-images.githubusercontent.com/82434538/235371077-5d5a485b-3245-4404-b8a7-de62c3729450.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 06 Realtime Rendering Algorithm in WebGL (2022.09-2022.20)
+  ![image](https://user-images.githubusercontent.com/82434538/235371123-02974423-62b5-458d-8759-f75a7b4b5d2d.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 07 AR Application in Andriod and IOS (2022.12-2023.01)
+  ![image](https://user-images.githubusercontent.com/82434538/235371164-8b1be4ab-5726-492f-bbd1-ec467e0b1523.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 08 PacMan game implemented with SFML(2023.02-2023.03)
+  ![image](https://user-images.githubusercontent.com/82434538/235371515-32ad05ce-e435-451d-a5c4-3fffd529123f.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 09 Mini Games using Unreal Engine Blueprint (2022.04-2022.05)
+  ![image](https://user-images.githubusercontent.com/82434538/235371540-c47972b0-0bce-4935-b1d9-4af3281126a4.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
@@ -114,7 +123,8 @@ ___
 
 ### Architecture Projects
 
-- ***01 Optimization algorithm for skyscraper structures using finite method (2020.09-2020.12)***\
+- #### 01 Optimization algorithm for skyscraper structures using finite method (2020.09-2020.12)
+  ![image](https://user-images.githubusercontent.com/82434538/235371589-51ded1cb-a91f-4673-88c1-570120cab7d5.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
