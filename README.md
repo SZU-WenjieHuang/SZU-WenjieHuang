@@ -62,6 +62,7 @@ ___
   ***Course Website:*** [Games104](https://www.youtube.com/@piccoloengine)\
   ***Description:*** I'm following a course ([Games104](https://games104.boomingtech.com/sc/))building a mini-game engine, from the engine layers to the reflection system, rendering system, and collision system. This is very challenging and long work, but I believe it will give me a deeper understanding of the game engine. rom the Core engine layer, such as the rendering engine, physics engine, audio engine, and input system, These systems handle low-level tasks such as rendering graphics, simulating physics, playing sounds, and handling user input.
 
+
 - #### 02 Animation using Unreal Engine and Houdini (2022.09-2022.10)
   ![image](https://user-images.githubusercontent.com/82434538/235370962-0014ae56-03dd-4d23-b2e0-4da13511aa9c.png)
   ***Repository:*** \
@@ -69,16 +70,18 @@ ___
   ***Top100 Works*** [Top100 Moving Meditations Works](https://www.youtube.com/watch?v=8b5k0M8wTBg&t=23s)\
   ***Description:*** I took part in the ["Moving Meditations" CG animation challenge](https://www.youtube.com/watch?v=D0OvHVJV_XU&t=60s) on YouTube in 2022. I modeled my creation using Maya, then set up the environment and camera in Unreal Engine. I touched up the object's UV and material using 3ds Maxs and brought my character to life by rigging its bones in Blender. Finally, I added some effects like fog, clouds, and a rainy effect using bluePrint in Unreal Engine before rendering it all into a sequence.
 
+
 - #### 03 Tiny Renderer (2022.06-2022.08)
   ![image](https://user-images.githubusercontent.com/82434538/235371020-def9d366-6221-438d-a78d-577447dbfdf6.png)
   ***Repository:*** [TinyRenderer](https://github.com/SZU-WenjieHuang/tinyrenderer)\
   ***Course Website (Wiki):*** [TinyRenderer Wiki](https://github.com/ssloy/tinyrenderer/wiki)\
   ***Description:*** Using the OpenGL Rendering pipeline. Started with the most basic point-to-line algorithm and added triangles surfaces, materials, shadows, and normals. And explore the most efficient solution at each step.Render the vertex data to the screen through the rendering pipeline.
 
+
 - #### 04 Ray Tracing Using Monte Carlo Methods (2022.10-2022.11)
   ![image](https://user-images.githubusercontent.com/82434538/235371055-32570506-ae6c-4ebd-93d1-775515fd5ccc.png)
-  ***Repository:*** \ [Ray Tracing](https://github.com/SZU-WenjieHuang/RayTracing)\
-  ***Course Website (Wiki):***\ [Ray Tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+  ***Repository:***  [Ray Tracing](https://github.com/SZU-WenjieHuang/RayTracing)\
+  ***Course Website (Wiki):*** [Ray Tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)\
   ***Description:*** Ray tracing is a technique used in computer graphics to generate highly realistic images by simulating the behavior of light in a scene. The technique involves tracing the path of light rays, and calculating how they are reflected, or absorbed by different materials.In a typical ray tracing algorithm, a virtual camera is placed in the scene, and rays are cast from the camera into the scene to see what objects and surfaces are visible. Followed the [wiki](https://raytracing.github.io/books/RayTracingInOneWeekend.html), I build a RayTracing from the most basic intersection algorithm of rays and geometric objects
 
 - #### 05 Unity Shader (2022.01-2022.05)
