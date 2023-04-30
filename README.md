@@ -65,9 +65,9 @@ ___
 - #### 02 Animation using Unreal Engine and Houdini (2022.09-2022.10)
   ![image](https://user-images.githubusercontent.com/82434538/235370962-0014ae56-03dd-4d23-b2e0-4da13511aa9c.png)
   ***Repository:*** \
-  ***Competition Website:***\
-  ***Dataset:***\
-  ***Description:***
+  ***Competition Website:*** [Taichi Pose in Animation](https://spaces.hightail.com/receive/W6tlKhjyWT)\
+  ***Top100 Works*** [Top100 Moving Meditations Works](https://www.youtube.com/watch?v=8b5k0M8wTBg&t=23s)
+  ***Description:*** I took part in the ["Moving Meditations" CG animation challenge](https://www.youtube.com/watch?v=D0OvHVJV_XU&t=60s) on YouTube in 2022. I modeled my creation using Maya, then set up the environment and camera in Unreal Engine. I touched up the object's UV and material using 3ds Maxs and brought my character to life by rigging its bones in Blender. Finally, I added some effects like fog, clouds, and a rainy effect using bluePrint in Unreal Engine before rendering it all into a sequence.
 
 - #### 03 Tiny Renderer (2022.06-2022.08)
   ![image](https://user-images.githubusercontent.com/82434538/235371020-def9d366-6221-438d-a78d-577447dbfdf6.png)
@@ -105,13 +105,13 @@ ___
   ***Description:***
 
 - #### 08 PacMan game implemented with SFML(2023.02-2023.03)
-  ![image](https://user-images.githubusercontent.com/82434538/235371515-32ad05ce-e435-451d-a5c4-3fffd529123f.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
   ***Description:***
 
 - #### 09 Mini Games using Unreal Engine Blueprint (2022.04-2022.05)
+  ![image](https://user-images.githubusercontent.com/82434538/235372264-527157cd-2739-4fe3-a3a0-a5da382cc4a9.png)
   ***Repository:*** \
   ***Competition Website:***\
   ***Dataset:***\
