@@ -71,10 +71,9 @@ ___
 
 - #### 03 Tiny Renderer (2022.06-2022.08)
   ![image](https://user-images.githubusercontent.com/82434538/235371020-def9d366-6221-438d-a78d-577447dbfdf6.png)
-  ***Repository:*** \
-  ***Competition Website:***\
-  ***Dataset:***\
-  ***Description:***
+  ***Repository:*** [TinyRenderer](https://github.com/SZU-WenjieHuang/tinyrenderer)\
+  ***Course Website (Wiki):*** [TinyRenderer Wiki](https://github.com/ssloy/tinyrenderer/wiki)\
+  ***Description:*** Using the OpenGL Rendering pipeline. Started with the most basic point-to-line algorithm and added triangles surfaces, materials, shadows, and normals. And explore the most efficient solution at each step.Render the vertex data to the screen through the rendering pipeline.
 
 - #### 04 Ray Tracing Using Monte Carlo Methods (2022.10-2022.11)
   ![image](https://user-images.githubusercontent.com/82434538/235371055-32570506-ae6c-4ebd-93d1-775515fd5ccc.png)
