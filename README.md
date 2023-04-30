@@ -33,8 +33,8 @@ ___
 - #### 02 UrbanGAN: A GAN based model for predicting the popularity of second-hand housing (2021.8-2021.10)
   ![image](https://user-images.githubusercontent.com/82434538/235354312-a6b20d43-d092-44cb-8efc-7fa21663af83.png)\
   ***Repository:*** [UrbanGAN](https://github.com/SZU-WenjieHuang/UrbanGAN)\
-  ***Dataset:*** POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from Baidu Map and ArcGis\
-  ***Description:*** Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
+  ***Dataset:*** POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from ArcGis\
+  ***Description:*** A summer project at TongJi University supervised by professor Hao Zheng. Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
   
 - ***03 Geometric algorithm: A parameterization model and clusting algorithm for complex facade surfaces (2021.11-2022.1)***\
   Repository: \
