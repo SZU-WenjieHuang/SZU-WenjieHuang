@@ -55,69 +55,69 @@ ___
 
 ### Computer Graphics Projects
 
-- ***01 Piccolo Game Engine (2022.12-now)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 01 Piccolo Game Engine (2022.12-now)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:*** 
 
-- ***02 Animation using Unreal Engine and Houdini (2022.09-2022.10)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 02 Animation using Unreal Engine and Houdini (2022.09-2022.10)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
-- ***03 Tiny Renderer (2022.06-2022.08)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 03 Tiny Renderer (2022.06-2022.08)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
-- ***04 Ray Tracing Using Monte Carlo Methods (2022.10-2022.11)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 04 Ray Tracing Using Monte Carlo Methods (2022.10-2022.11)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
-- ***05 Unity Shader (2022.01-2022.05)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 05 Unity Shader (2022.01-2022.05)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
-- ***06 Realtime Rendering Algorithm in WebGL (2022.09-2022.20)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 06 Realtime Rendering Algorithm in WebGL (2022.09-2022.20)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
-- ***07 AR Application in Andriod and IOS (2022.12-2023.01)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 07 AR Application in Andriod and IOS (2022.12-2023.01)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
-- ***08 PacMan game implemented with SFML(2023.02-2023.03)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 08 PacMan game implemented with SFML(2023.02-2023.03)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
-- ***09 Mini Games using Unreal Engine Blueprint (2022.04-2022.05)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 09 Mini Games using Unreal Engine Blueprint (2022.04-2022.05)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
 ___
 
 ### Architecture Projects
 
 - ***01 Optimization algorithm for skyscraper structures using finite method (2020.09-2020.12)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:***
 
   
 <!--
