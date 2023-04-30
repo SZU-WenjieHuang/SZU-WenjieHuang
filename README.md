@@ -24,14 +24,14 @@ ___
 ### Deep Learning / Machine Learning Projects
 
 - #### 01 Kaggle Shopee Price Matching Multimodal Project (2021.3-2021.5)
-  ![image](https://user-images.githubusercontent.com/82434538/235355448-180fbf59-a08b-44ba-87d1-2a8a30abfce1.png)\
+  ![image](https://user-images.githubusercontent.com/82434538/235355506-26f07f43-c084-4ce1-a062-59946e10d173.png)\
   ***Repository:*** [Solution for shopee-product-matching](https://github.com/SZU-WenjieHuang/Kaggle-Shopee-Price-Matching-Multimodal-Project)\
   ***Competition Website:*** [Kaggle Shopee Price Matching Multimodal Project](https://www.kaggle.com/competitions/shopee-product-matching)\
   ***Dataset:*** [35000(Trianing set)+7000(Test set) products in Shopee with image / image_phash / title / id / label](https://www.kaggle.com/competitions/shopee-product-matching/data)\
   ***Description:*** Developed a model recommend similar products to customers through image and text model. (CV+NLP)Used multiple image and text models to train a significant amount of data. And a voting method for Post-processing.
 
 - #### 02 UrbanGAN: A GAN based model for predicting the popularity of second-hand housing (2021.8-2021.10)
-  ![image](https://user-images.githubusercontent.com/82434538/235355365-524c9f32-94e7-401c-ba8b-7402f1747a09.png)\
+  ![image](https://user-images.githubusercontent.com/82434538/235355479-6df73e6f-169d-4d91-9b72-db1a14956680.png)\
   ***Repository:*** [UrbanGAN](https://github.com/SZU-WenjieHuang/UrbanGAN)\
   ***Dataset:*** POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from ArcGis\
   ***Description:*** A summer project at TongJi University supervised by professor Hao Zheng. Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
