@@ -87,14 +87,13 @@ ___
 - #### 05 Unity Shader (2022.01-2022.05)
   ![image](https://user-images.githubusercontent.com/82434538/235371077-5d5a485b-3245-4404-b8a7-de62c3729450.png)
   ***Repository:*** [Unity Shader](https://github.com/SZU-WenjieHuang/UnityShader)\
-  ***Description:*** Unity allows developers to control how light interacts with objects, how textures are applied to surfaces, and how materials behave. Shaders can be customized and combined to create unique visual effects and styles in a game or application. We can Implement smoke effect and transparency by customizing the vertex shader and fragment shader in the rendering pipeline throung Unity shader, to achieve the desired effect.
+  ***Description:*** Unity allows developers to control how light interacts with objects, how textures are applied to surfaces, and how materials behave. Shaders can be customized and combined to create unique visual effects and styles in a game or application. We can Implement smoke effect and transparency by customizing the vertex shader and fragment shader in the rendering pipeline throung Unity shader, to achieve the desired effect. I programme lighting equations and sample colors on texture mapping to implement rendering algorithms for both realism and non-realism effects.
 
 - #### 06 Realtime Rendering Algorithm in WebGL (2022.09-2022.20)
   ![image](https://user-images.githubusercontent.com/82434538/235371123-02974423-62b5-458d-8759-f75a7b4b5d2d.png)
-  ***Repository:*** \
-  ***Competition Website:***\
-  ***Dataset:***\
-  ***Description:***
+  ***Repository:*** [Realtime Rendering](https://github.com/SZU-WenjieHuang/Games202-RealtimeRendering)\
+  ***Competition Website:*** [Games202 by ucsb](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html)\
+  ***Description:*** In the Online courses by UC Santa Barbara, I have achieved many real-time rendering algorithms in the framework of WebGL. For example here is a PCSS Soft shadow, It works by taking into account the size and shape of the light source, as well as the distance and angle between the light source and the object casting the shadow, to create soft and realistic shadow edges.
 
 - #### 07 AR Application in Andriod and IOS (2022.12-2023.01)
   ![image](https://user-images.githubusercontent.com/82434538/235371164-8b1be4ab-5726-492f-bbd1-ec467e0b1523.png)
