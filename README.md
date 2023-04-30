@@ -24,17 +24,17 @@ ___
 ### Deep Learning / Machine Learning Projects
 
 - #### 01 Kaggle Shopee Price Matching Multimodal Project (2021.3-2021.5)
-  ![image](https://user-images.githubusercontent.com/82434538/235353190-26a58619-8622-47fa-a2aa-de7e9eee9fcf.png)
+  ![image](https://user-images.githubusercontent.com/82434538/235353190-26a58619-8622-47fa-a2aa-de7e9eee9fcf.png)\
   ***Repository:*** [Solution for shopee-product-matching](https://github.com/SZU-WenjieHuang/Kaggle-Shopee-Price-Matching-Multimodal-Project)\
   ***Competition Website:*** [Kaggle Shopee Price Matching Multimodal Project](https://www.kaggle.com/competitions/shopee-product-matching)\
-  ***Dataset:*** [35000(Trianing set)+7000(Test set) products in Shopee with Image / image_phash / title / id / label](https://www.kaggle.com/competitions/shopee-product-matching/data)\
+  ***Dataset:*** [35000(Trianing set)+7000(Test set) products in Shopee with image / image_phash / title / id / label](https://www.kaggle.com/competitions/shopee-product-matching/data)\
   ***Description:*** Developed a model recommend similar products to customers through image and text model. (CV+NLP)Used multiple image and text models to train a significant amount of data. And a voting method for Post-processing.
 
-- ***02 UrbanGAN: A GAN based model for predicting the heat of second-hand housing (2021.8-2021.10)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 02 UrbanGAN: A GAN based model for predicting the popularity of second-hand housing (2021.8-2021.10)
+  ![image](https://user-images.githubusercontent.com/82434538/235354312-a6b20d43-d092-44cb-8efc-7fa21663af83.png)\
+  ***Repository:*** [UrbanGAN](https://github.com/SZU-WenjieHuang/UrbanGAN)\
+  ***Dataset:*** POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from Baidu Map and ArcGis\
+  ***Description:*** Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
   
 - ***03 Geometric algorithm: A parameterization model and clusting algorithm for complex facade surfaces (2021.11-2022.1)***\
   Repository: \
