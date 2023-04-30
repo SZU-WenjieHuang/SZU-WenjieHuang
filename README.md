@@ -84,10 +84,12 @@ ___
   ***Course Website (Wiki):*** [Ray Tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)\
   ***Description:*** Ray tracing is a technique used in computer graphics to generate highly realistic images by simulating the behavior of light in a scene. The technique involves tracing the path of light rays, and calculating how they are reflected, or absorbed by different materials.In a typical ray tracing algorithm, a virtual camera is placed in the scene, and rays are cast from the camera into the scene to see what objects and surfaces are visible. Followed the [wiki](https://raytracing.github.io/books/RayTracingInOneWeekend.html), I build a RayTracing from the most basic intersection algorithm of rays and geometric objects using Monte Carlo Methods.
 
+
 - #### 05 Unity Shader (2022.01-2022.05)
   ![image](https://user-images.githubusercontent.com/82434538/235371077-5d5a485b-3245-4404-b8a7-de62c3729450.png)
   ***Repository:*** [Unity Shader](https://github.com/SZU-WenjieHuang/UnityShader)\
   ***Description:*** Unity allows developers to control how light interacts with objects, how textures are applied to surfaces, and how materials behave. Shaders can be customized and combined to create unique visual effects and styles in a game or application. We can Implement smoke effect and transparency by customizing the vertex shader and fragment shader in the rendering pipeline throung Unity shader, to achieve the desired effect. I programme lighting equations and sample colors on texture mapping to implement rendering algorithms for both realism and non-realism effects.
+
 
 - #### 06 Realtime Rendering Algorithm in WebGL (2022.09-2022.20)
   ![image](https://user-images.githubusercontent.com/82434538/235371123-02974423-62b5-458d-8759-f75a7b4b5d2d.png)
@@ -95,12 +97,12 @@ ___
   ***Competition Website:*** [Games202 by ucsb](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html)\
   ***Description:*** In the Online courses by UC Santa Barbara, I have achieved many real-time rendering algorithms in the framework of WebGL. For example here is a PCSS Soft shadow, It works by taking into account the size and shape of the light source, as well as the distance and angle between the light source and the object casting the shadow, to create soft and realistic shadow edges.
 
+
 - #### 07 AR Application in Andriod and IOS (2022.12-2023.01)
   ![image](https://user-images.githubusercontent.com/82434538/235371164-8b1be4ab-5726-492f-bbd1-ec467e0b1523.png)
-  ***Repository:*** \
-  ***Competition Website:***\
-  ***Dataset:***\
-  ***Description:***
+  ***Repository:*** [AR Application(IOS)](https://github.com/SZU-WenjieHuang/AR)\
+  ***Framework:*** [Unity AR Foundation](https://github.com/Unity-Technologies/arfoundation-samples)\
+  ***Description:*** I was really impressed by the amazing effect of Microsoft Mesh and HoloLens. Unfortunately, I don't have a HoloLens yet, so I couldn't develop interactive mixed reality yet. Instead,I tried to deploy the AR model separately on Android and iOS. On Android, we have the option to choose between ARCore and Vuforia as our AR development platforms. Both platforms support device tracking, plane detection, face tracking, and 2D/3D object tracking. However, since ARCore does not support every Android device yet, I chose to use Vuforia for my project on Android. I deployed a 2D image tracking feature and added an animation of a model to the target image. On IOS, I choose AR Foundation. It can support both ARKit and ARCore. AR Foundation has many Subsystems, such as XRSession, XRCamera, and Also XRImage. I deployed the most basic Devices Tracking on my ipad and can be found that if we need a better positioning effect, we still need to add 2D/3D Tracking.
 
 - #### 08 PacMan game implemented with SFML(2023.02-2023.03)
   ***Repository:*** \
