@@ -30,23 +30,26 @@ ___
   ***Dataset:*** [35000(Trianing set)+7000(Test set) products in Shopee with image / image_phash / title / id / label](https://www.kaggle.com/competitions/shopee-product-matching/data)\
   ***Description:*** Developed a model recommend similar products to customers through image and text model. (CV+NLP)Used multiple image and text models to train a significant amount of data. And a voting method for Post-processing.
 
+
 - #### 02 UrbanGAN: A GAN based model for predicting the popularity of second-hand housing (2021.8-2021.10)
   ![image](https://user-images.githubusercontent.com/82434538/235355479-6df73e6f-169d-4d91-9b72-db1a14956680.png)\
   ***Repository:*** [UrbanGAN](https://github.com/SZU-WenjieHuang/UrbanGAN)\
   ***Dataset:*** POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from ArcGis\
-  ***Description:*** A summer project at TongJi University supervised by professor Hao Zheng. Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
+  ***Description:*** A summer project at TongJi University supervised by Professor Hao Zheng. Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
   
-- ***03 Geometric algorithm: A parameterization model and clusting algorithm for complex facade surfaces (2021.11-2022.1)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: \
+  
+- #### 03 Geometric algorithm: A parameterization model and clusting algorithm for complex facade surfaces (2021.11-2022.1)
+  ![image](https://user-images.githubusercontent.com/82434538/235356112-fe521fc3-5df4-498e-b01b-43597a96422b.png)
+  ***Repository:*** [clusting algorithm for complex facade surfaces](https://github.com/SZU-WenjieHuang/clusting-algorithm-for-complex-facade-surfaces)\
+  ***Data:*** The mesh information (vertex position and normal) of complex surfaces after UV mapping\
+  ***Description:*** The construction of complex surface of buildings always needs to provide different molds for each panel. I hope to find the optimal pannel clusting through K-means clustering, so the same mold can correspond to different pannels, save costs in the actual construction process. Before clusting, I constructed a parameterized model for panels, using 5 parameters to difine the size and curvature of each pannel. I divied all panels into three categories: flat, single curved surface, and hyperbilic surface in first round. Then, clusting was performed within each catagory.
  
-- ***04 HUAWEI Cloud AI Competition: Recording disappearing cultural heritage using YOLO_v3 (2020.10-2020.12)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+ 
+- #### 04 HUAWEI Cloud AI Competition: Recording disappearing cultural heritage using YOLO_v3 (2020.10-2020.12)
+  ***Repository:*** \
+  ***Competition Website:***\
+  ***Dataset:***\
+  ***Description:*** 
 
 ___
 
