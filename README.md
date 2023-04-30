@@ -82,14 +82,12 @@ ___
   ![image](https://user-images.githubusercontent.com/82434538/235371055-32570506-ae6c-4ebd-93d1-775515fd5ccc.png)
   ***Repository:***  [Ray Tracing](https://github.com/SZU-WenjieHuang/RayTracing)\
   ***Course Website (Wiki):*** [Ray Tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)\
-  ***Description:*** Ray tracing is a technique used in computer graphics to generate highly realistic images by simulating the behavior of light in a scene. The technique involves tracing the path of light rays, and calculating how they are reflected, or absorbed by different materials.In a typical ray tracing algorithm, a virtual camera is placed in the scene, and rays are cast from the camera into the scene to see what objects and surfaces are visible. Followed the [wiki](https://raytracing.github.io/books/RayTracingInOneWeekend.html), I build a RayTracing from the most basic intersection algorithm of rays and geometric objects
+  ***Description:*** Ray tracing is a technique used in computer graphics to generate highly realistic images by simulating the behavior of light in a scene. The technique involves tracing the path of light rays, and calculating how they are reflected, or absorbed by different materials.In a typical ray tracing algorithm, a virtual camera is placed in the scene, and rays are cast from the camera into the scene to see what objects and surfaces are visible. Followed the [wiki](https://raytracing.github.io/books/RayTracingInOneWeekend.html), I build a RayTracing from the most basic intersection algorithm of rays and geometric objects using Monte Carlo Methods.
 
 - #### 05 Unity Shader (2022.01-2022.05)
   ![image](https://user-images.githubusercontent.com/82434538/235371077-5d5a485b-3245-4404-b8a7-de62c3729450.png)
-  ***Repository:*** \
-  ***Competition Website:***\
-  ***Dataset:***\
-  ***Description:***
+  ***Repository:*** [Unity Shader](https://github.com/SZU-WenjieHuang/UnityShader)\
+  ***Description:*** Unity allows developers to control how light interacts with objects, how textures are applied to surfaces, and how materials behave. Shaders can be customized and combined to create unique visual effects and styles in a game or application. We can Implement smoke effect and transparency by customizing the vertex shader and fragment shader in the rendering pipeline throung Unity shader, to achieve the desired effect.
 
 - #### 06 Realtime Rendering Algorithm in WebGL (2022.09-2022.20)
   ![image](https://user-images.githubusercontent.com/82434538/235371123-02974423-62b5-458d-8759-f75a7b4b5d2d.png)
