@@ -108,10 +108,8 @@ On IOS, I choose AR Foundation. It can support both ARKit and ARCore. AR Foundat
 
 
 - #### 08 PacMan game implemented with SFML(2023.02-2023.03)
-  ***Repository:*** \
-  ***Competition Website:***\
-  ***Dataset:***\
-  ***Description:***
+  ***Repository:*** [Pacman](https://github.com/SZU-WenjieHuang/PacMan)\
+  ***Description:*** I have developed a PacMan games using the SFML library. The game is set in maze where the player controls PacMan to eat all the pellets while avoiding the ghosts. The game features classic gameplay mechanics, such as power pellets that allow PacMan to eat the ghosts and bonus fruits tha appear in the maze. The graphics and sounds are designed to recreate the nostalgia of the original game, making it a fun and engaging experience for player.
 
 - #### 09 Mini Games using Unreal Engine Blueprint (2022.04-2022.05)
   ![image](https://user-images.githubusercontent.com/82434538/235372264-527157cd-2739-4fe3-a3a0-a5da382cc4a9.png)
