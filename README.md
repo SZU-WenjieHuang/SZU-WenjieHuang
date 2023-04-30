@@ -23,11 +23,12 @@ ___
 
 ### Deep Learning / Machine Learning Projects
 
-- ***01 Kaggle Shopee Price Matching Multimodal Project (2021.3-2021.5)***\
-  Repository: \
-  Competition Website:\
-  Dataset:\
-  Description: 
+- #### 01 Kaggle Shopee Price Matching Multimodal Project (2021.3-2021.5)
+  ![image](https://user-images.githubusercontent.com/82434538/235353190-26a58619-8622-47fa-a2aa-de7e9eee9fcf.png)
+  ***Repository:*** [Solution for shopee-product-matching](https://github.com/SZU-WenjieHuang/Kaggle-Shopee-Price-Matching-Multimodal-Project)\
+  ***Competition Website:*** [Kaggle Shopee Price Matching Multimodal Project](https://www.kaggle.com/competitions/shopee-product-matching)\
+  ***Dataset:*** [35000(Trianing set)+7000(Test set) products in Shopee with Image / image_phash / title / id / label](https://www.kaggle.com/competitions/shopee-product-matching/data)\
+  ***Description:*** Developed a model recommend similar products to customers through image and text model. (CV+NLP)Used multiple image and text models to train a significant amount of data. And a voting method for Post-processing.
 
 - ***02 UrbanGAN: A GAN based model for predicting the heat of second-hand housing (2021.8-2021.10)***\
   Repository: \
