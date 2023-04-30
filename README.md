@@ -46,10 +46,10 @@ ___
  
  
 - #### 04 HUAWEI Cloud AI Competition: Recording disappearing cultural heritage using YOLO_v3 (2020.10-2020.12)
-  ***Repository:*** \
-  ***Competition Website:***\
-  ***Dataset:***\
-  ***Description:*** 
+  ![image](https://user-images.githubusercontent.com/82434538/235357499-9ca79e72-b45b-4eaf-8e6b-3266b1c1d1a8.png)
+  ***Repository:*** [YOLOv3-Shekou-FishingMarket](https://github.com/SZU-WenjieHuang/YOLOv3-ShekouMarket)\
+  ***Data:*** Video in Shekou Fishing Market\
+  ***Description:*** Shekou Fishing Market will be demolished by the end of November 2020. With the HiLens Kit by HUAWEI Cloud, we built an installation in the sea world culture and arts center(SWCAC) to continue Shekou people's memory of Shekou fishing Market. We collect video in market using HiLens Kit's camera, and use YOLO_v3 algorithm to carry out human shape detextion in real time. Through stepping motors and other devices, we convey the same sense of crowding to exhibitors as in Shekou market. And the sense of crowding will also be preserved in the form of data.
 
 ___
 
