@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently a Msc Computer Science student at University of Birmingham
 
 <!--
 **SZU-WenjieHuang/SZU-WenjieHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
