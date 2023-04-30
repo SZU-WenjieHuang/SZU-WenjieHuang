@@ -24,7 +24,7 @@ ___
 ### Deep Learning / Machine Learning Projects
 
 - #### 01 Kaggle Shopee Price Matching Multimodal Project (2021.3-2021.5)
-  ![image](https://user-images.githubusercontent.com/82434538/235353190-26a58619-8622-47fa-a2aa-de7e9eee9fcf.png)\
+  ![image](https://user-images.githubusercontent.com/82434538/235355448-180fbf59-a08b-44ba-87d1-2a8a30abfce1.png)\
   ***Repository:*** [Solution for shopee-product-matching](https://github.com/SZU-WenjieHuang/Kaggle-Shopee-Price-Matching-Multimodal-Project)\
   ***Competition Website:*** [Kaggle Shopee Price Matching Multimodal Project](https://www.kaggle.com/competitions/shopee-product-matching)\
   ***Dataset:*** [35000(Trianing set)+7000(Test set) products in Shopee with image / image_phash / title / id / label](https://www.kaggle.com/competitions/shopee-product-matching/data)\
