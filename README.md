@@ -1,5 +1,6 @@
 ### Hi I'm Wenjie 👋
-- 🔭 Msc Computer Science at University of Birmingham
+-  Msc Computer Science at University of Birmingham (2022-2023)
+-  Bsc Architecture at Shenzhen University (2017-2022)
 
 <!--
 **SZU-WenjieHuang/SZU-WenjieHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
