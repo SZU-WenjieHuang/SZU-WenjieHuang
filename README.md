@@ -34,7 +34,7 @@ ___
 - #### 02 UrbanGAN: A GAN based model for predicting the popularity of second-hand housing (2021.8-2021.10)
   ![image](https://user-images.githubusercontent.com/82434538/235367824-ae42a995-00ad-4d98-96b5-e09f6e415b0a.png)\
   ***Repository:*** [UrbanGAN](https://github.com/SZU-WenjieHuang/UrbanGAN)\
-  ***Dataset:*** POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from ArcGis\
+  ***Dataset:*** [POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from ArcGis](https://drive.google.com/drive/folders/1oKqr5l3vJyV593nsufG4iYxftGv5rAum?usp=sharing)\
   ***Description:*** A summer project at TongJi University supervised by Professor Hao Zheng. Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
   
   
