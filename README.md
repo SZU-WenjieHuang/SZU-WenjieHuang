@@ -45,7 +45,7 @@ ___
   ***Description:*** The construction of complex surface of buildings always needs to provide different molds for each panel. I hope to find the optimal pannel clusting through K-means clustering, so the same mold can correspond to different pannels, save costs in the actual construction process. Before clusting, I constructed a parameterized model for panels, using 5 parameters to difine the size and curvature of each pannel. I divied all panels into three categories: flat, single curved surface, and hyperbilic surface in first round. Then, clusting was performed within each catagory.
  
  
-- #### 04 HUAWEI Cloud AI Competition: Recording disappearing cultural heritage using YOLO_v3 (2020.10-2020.12)
+- #### 04 [HUAWEI Cloud AI Competition: Recording disappearing cultural heritage using YOLO_v3](https://github.com/SZU-WenjieHuang/YOLOv3-ShekouMarket) (2020.10-2020.12)
   ![image](https://user-images.githubusercontent.com/82434538/235367891-d0cd93e1-a20a-477c-8cfe-95c2a4ebcef3.png)\
   ***Repository:*** [YOLOv3-Shekou-FishingMarket](https://github.com/SZU-WenjieHuang/YOLOv3-ShekouMarket)\
   ***Data:*** Video in Shekou Fishing Market\
