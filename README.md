@@ -31,7 +31,7 @@ ___
   ***Description:*** Developed a model recommend similar products to customers through image and text model. (CV+NLP)Used multiple image and text models to train a significant amount of data. And a voting method for Post-processing.
 
 
-- #### 02 UrbanGAN: A GAN based model for predicting the popularity of second-hand housing (2021.8-2021.10)
+- #### 02 [UrbanGAN: A GAN based model for predicting the popularity of second-hand housing](https://github.com/SZU-WenjieHuang/UrbanGAN) (2021.8-2021.10)
   ![image](https://user-images.githubusercontent.com/82434538/235367824-ae42a995-00ad-4d98-96b5-e09f6e415b0a.png)\
   ***Repository:*** [UrbanGAN](https://github.com/SZU-WenjieHuang/UrbanGAN)\
   ***Dataset:*** [POI Data in Shanghai from Amap.api / 6000 Second-hand-houses data from Lianjia.com / Graphs Data from ArcGis](https://drive.google.com/drive/folders/1oKqr5l3vJyV593nsufG4iYxftGv5rAum?usp=sharing)\
