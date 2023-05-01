@@ -113,7 +113,7 @@ On IOS, I choose AR Foundation. It can support both ARKit and ARCore. AR Foundat
 
 - #### 09 Mini Games using Unreal Engine Blueprint (2022.04-2022.05)
   ![image](https://user-images.githubusercontent.com/82434538/235372264-527157cd-2739-4fe3-a3a0-a5da382cc4a9.png)
-  ***Repository:*** [MiniGames](https://github.com/SZU-WenjieHuang/Unreal-Engine-Mini-Games)\
+  ***Repository:*** [BlockBreaker](https://github.com/SZU-WenjieHuang/UnrealGames-BlockBreaker) [SkywardMuffin](https://github.com/SZU-WenjieHuang/UnrealGames-SkywardMuffin) [SpaceshipBattle](https://github.com/SZU-WenjieHuang/UnrealGames-SpaceshipBattle) \
   ***Description:*** I've created a few small games using Unreal Engine, relying on its blueprint system for development. This includes designing the interface UI, working with materials, rigging characters with bones, creating animations, and adding sound effects, and particle systems.
 
 ___
