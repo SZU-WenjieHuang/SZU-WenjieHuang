@@ -38,7 +38,7 @@ ___
   ***Description:*** A summer project at TongJi University supervised by Professor Hao Zheng. Using the API of Amap to collect POI (Points of interests) data of Shanghai, including school, hospital, underground station, bus station ,business and shopping center's location. And the popularity data of second-hand houses from Lianjia website. Trying to use GAN to train an image-to-image mapping to learn the impact of POI data on the popularity of second-hand housing.
   
   
-- #### 03 [Geometric algorithm: A parameterization model and clusting algorithm for complex facade surfaces](https://user-images.githubusercontent.com/82434538/235367857-67b7efa0-0b40-46a2-a6b3-5c6d01e763fd.png) (2021.11-2022.1)
+- #### 03 [Geometric algorithm: A parameterization model and clusting algorithm for complex facade surfaces](https://github.com/SZU-WenjieHuang/clusting-algorithm-for-complex-facade-surfaces) (2021.11-2022.1)
   ![image](https://user-images.githubusercontent.com/82434538/235367857-67b7efa0-0b40-46a2-a6b3-5c6d01e763fd.png)\
   ***Repository:*** [clusting algorithm for complex facade surfaces](https://github.com/SZU-WenjieHuang/clusting-algorithm-for-complex-facade-surfaces)\
   ***Data:*** The mesh information (vertex position and normal) of complex surfaces after UV mapping\
