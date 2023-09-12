@@ -18,6 +18,9 @@
 - ***Algorithm intern at Xkool Technology（2021-2022）***\
   Secondary development of Rhino and Revit software; Geometric Algorithm Development
   
+- ***Graphics Engineer intern at OPPO（2023-2023）***\
+  Vulkan, OpenGL, Games Development, GPU performance analysis and load reduction
+  
 ___
 
 
