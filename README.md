@@ -5,22 +5,31 @@
 - 👨‍💻 My favourite language is C++ and I've had the most fun with it
 - 💭 Enjoy games programming, animation and computer graphics (especially rendering :-D)
 - 🌱 I am interested in the combination of computer graphics and deep learning!
-- 📫 How to reach me: wxh236@student.bham.ac.uk / [My personal website](https://wenjiehuang.net) / [Linkedin](https://www.linkedin.com/in/wenjie-huang-a1131317b/)
+- 📫 How to reach me: patrick.h.wenjie@gmail.com / [Linkedin](https://www.linkedin.com/in/wenjie-huang-a1131317b/)
 
-### Education & Internship
+  
+### Career
+
+- ***AI Agent Developer at Alibaba Group（2025-2026）***\
+  Agent Developer, focus on LLM, RAG
+  
+- ***Graphics Engineer at Alibaba Group（2024-2025）***\
+  Map, and Graphics Development
+
+- ***Graphics Engineer intern at OPPO（2023-2023）***\
+  Vulkan, OpenGL, Games Development, GPU performance analysis and load reduction
+  
+- ***Algorithm intern at Xkool Technology（2021-2022）***\
+  Geometric Algorithm Development
+  
+  
+### Education
 
 - ***Msc Computer Science at University of Birmingham (2022-2023)***\
   Computer Graphics, Rendering; Full Stack Software Development; Artificial Intelligence
   
 - ***Bsc Architecture at Shenzhen University (2017-2022)***\
   Fluid simulation; Procedural generation; Machine Learning and Deep Learning
-  
-- ***Algorithm intern at Xkool Technology（2021-2022）***\
-  Secondary development of Rhino and Revit software; Geometric Algorithm Development
-  
-- ***Graphics Engineer intern at OPPO（2023-2023）***\
-  Vulkan, OpenGL, Games Development, GPU performance analysis and load reduction
-  
 ___
 
 
