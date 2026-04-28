@@ -1,6 +1,6 @@
 ## Hi, I'm Wenjie 👋
 
-- 🎓 I’m currently studying Computer Science at university
+- 🎓 I’m currently an AI Agent developer at Alibaba Group
 - 🔭 You'll find some of my personal programming projects here
 - 👨‍💻 My favourite language is C++ and I've had the most fun with it
 - 💭 Enjoy games programming, animation and computer graphics (especially rendering :-D)
